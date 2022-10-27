@@ -4,7 +4,7 @@ A reproduction of Pathak et al. 2016 together with [Edwin Holst](https://github.
 __The notebooks are very messy and we might release a clean version in the future.__
 
 ## The paper
-Read the paper in [pdf format](https://github.com/AlexVialaBellander/context-encoder/blob/main/report.pdf).
+Read the paper in [pdf format](https://github.com/AlexVialaBellander/context-encoder/blob/main/report.pdf) or check out the overleaf source: https://www.overleaf.com/read/hhqwqscqjwrh
 
 ## Background
 This was created as part of a university course at Chalmers University of Technology, SSY340 Deep Machine Learning by [Lennart Svensson](http://www.chalmers.se/sv/personal/Sidor/lennart-svensson.aspx)
