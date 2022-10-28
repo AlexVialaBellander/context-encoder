@@ -3,6 +3,8 @@ A reproduction of Pathak et al. 2016 together with [Edwin Holst](https://github.
 
 __The notebooks are very messy and we might release a clean version in the future.__
 
+This is a PyTorch implementation.
+
 ## The paper
 Read the paper in [pdf format](https://github.com/AlexVialaBellander/context-encoder/blob/main/report.pdf) or check out the overleaf source: https://www.overleaf.com/read/hhqwqscqjwrh
 
