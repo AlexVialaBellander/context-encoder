@@ -1,3 +1,6 @@
+![Social](https://user-images.githubusercontent.com/42417723/198875771-fbf72c74-75d7-4114-b6e0-0e68ef547a56.jpg)
+
+
 # Context Encoders
 A reproduction of Pathak et al. 2016 together with [Edwin Holst](https://github.com/EdwinHolst). Semantic hole-filling/inpainting using convolutional autoencoders.
 
