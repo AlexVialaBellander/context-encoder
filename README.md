@@ -2,7 +2,7 @@
 
 
 # Context Encoders
-A reproduction of Pathak et al. 2016 together with [Edwin Holst](https://github.com/EdwinHolst). Semantic hole-filling/inpainting using convolutional autoencoders.
+A reproduction of Pathak et al. 2016 together with [Edwin Holst](https://github.com/EdwinHolst). Semantic hole-filling/inpainting using convolutional autoencoders. 
 
 __The notebooks are very messy and we might release a clean version in the future.__
 
